@@ -1,7 +1,7 @@
 {
-  "name": "𝗭𝗧𝗵𝗼𝗻",
-  "description": "〔 سـورس زدثــون 𝗭𝗲𝗱𝗧𝗵𝗼𝗻 𓅛 〕افضـل سـورسـات تليثـون يـوزربـوت العربيـة : › عربـي بالكـامل › تحديثـات متواصـله › فـارات تلقـائيـه بسهولـه〔 حصريـاً 〕- مطـور السـورس : زلـزال ",
-  "logo": "https://telegra.ph/file/c91c09fb188f0f281e628.jpg",
+  "name": "𝕄𝕚𝕩𝕋𝕙𝕠𝕟",
+  "description": "〔 𝐌𝐢𝐱𝐭𝐡𝐨𝐧 𝐮𝐬𝐞𝐫𝐛𝐨𝐭 𝐜𝐦𝐝 𓅛 〕افضـل سـورسـات تليثـون يـوزربـوت العربيـة : › عربـي بالكـامل › تحديثـات متواصـله › فـارات تلقـائيـه بسهولـه〔 حصريـاً 〕-  ",
+  "logo": "https://graph.org/file/64add1c2dd951f9401fd3.jpg",
   "keywords": ["plugin","modular","productivity"],
   "repository": "https://github.com/CoDeRiraq1/Mixthon",
   "website": "#TODO",
@@ -9,11 +9,11 @@
   "env": {
     "APP_ID": {
       "description": "كـود ايبي ايـدي〔 App id 〕لا تغيرهـا",
-      "value": "27455984"
+      "value": ""
     },
     "API_HASH": {
       "description": "كـود ايبي هـاش〔 Api hash 〕..لا تغيرهـا",
-      "value": "62d5f68ce2e9189636967120220f5755"
+      "value": ""
     },
     "STRING_SESSION": {
       "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
